@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Jahidul Hassan Mojumder
+#### I am Web Developer, web scrapper
+I am a graduate major in Computer Science and Engineering. I develop website's back end using PHP, JS, AJAX using MVC approach. I have done web scraping using Selenium webDriver. Also worked with ASP .Net. Certified ASP .Net developer under SEIP from BASIS-BITM (registration ID : 0400031547 Batch no : 10)
 
-<!--
-**J-H-Mojumder/J-H-Mojumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:
+Python, PHP, JS, AJAX, HTML, CSS, ASP .Net
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web development and scraping 
+- 🌱 I’m currently learning GUI based Python programs for Web Scraping 
+- ⚡ Fun fact: I am a Moto-Traveler 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/J-H-Mojumder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-jahidul-hassan-mojumder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Jahidul.H.Mojumder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/j.h.masum/)  
+
