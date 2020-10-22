@@ -5,7 +5,7 @@ I am a graduate major in Computer Science and Engineering. I develop website's b
 ***
 **Skills:**
 
-Python, PHP, JS, AJAX, HTML, CSS, ASP .Net
+Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 
 ***
 
