@@ -19,3 +19,4 @@ Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 
 ***
 <img align="left" alt="evanemran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=J-h-Mojumder&show_icons=true&hide_border=true&hide=issues,contribs" />
+<img align="left" alt="evanemran's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanemran&show_icons=true&hide_border=true" />
