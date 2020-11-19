@@ -15,7 +15,7 @@ Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 ***
 ## contact me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/J-H-Mojumder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-jahidul-hassan-mojumder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Jahidul.H.Mojumder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/j.h.masum/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='instagram' height='40'>](https://www.instagram.com/j.h.masum/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/o/profiles/users/~01bcd91f9fd71d7f9b/) 
 
 ***
 <img align="left" alt="J-H-Mojumder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=J-H-Mojumder&show_icons=true&hide_border=true&hide=issues,contribs" />
