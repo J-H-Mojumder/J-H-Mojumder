@@ -19,6 +19,13 @@ Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 
 ***
 ## Languages and Tools
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>]() 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='C#' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/selenium.svg' alt='selenium webdriver' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg' alt='jQuery' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ajax.svg' alt='ajax' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/aspdotnet.svg' alt='ASP.NET' height='40'>]() 
+
 ***
 <img align="left" alt="J-H-Mojumder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=J-H-Mojumder&show_icons=true&hide_border=true&hide=issues,contribs" />
