@@ -22,13 +22,12 @@ Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='C#' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='C' height='40'>]()
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cpp.svg' alt='C++' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg' alt='C++' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='Android' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg' alt='jQuery' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg' alt='Visual Studio' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>]() 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeblocks.svg' alt='codeblocks' height='40'>]() 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sublimetext.svg' alt='sublimetext' height='40'>]() 
 
 ***
