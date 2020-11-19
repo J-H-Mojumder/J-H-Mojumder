@@ -18,4 +18,7 @@ Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/o/profiles/users/~01bcd91f9fd71d7f9b/) 
 
 ***
+## Languages and Tools
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>]() 
+***
 <img align="left" alt="J-H-Mojumder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=J-H-Mojumder&show_icons=true&hide_border=true&hide=issues,contribs" />
