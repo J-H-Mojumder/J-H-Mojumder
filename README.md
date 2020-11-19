@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jahidul Hassan Mojumder
+### Hi there , I'm Jahidul Hassan Mojumder
 #### I am Web Developer, web scrapper
 I am a graduate major in Computer Science and Engineering. I develop website's back end using PHP, JS, AJAX using **MVC** approach. I have done web scraping using **Selenium webDriver**. **Certified ASP .Net developer** under SEIP from BASIS-BITM (registration ID : 0400031547 Batch no : 10)
 
@@ -9,9 +9,8 @@ Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 
 ***
 
-- 🔭 I’m currently working on Web development and scraping 
-- 🌱 I’m currently learning GUI based Python programs for Web Scraping 
-- ⚡ Fun fact: I am a Moto-Traveler 
+- I’m currently working on Web development and scraping 
+- I’m currently learning GUI based Python programs for Web Scraping  
 
 ***
 ## contact me
