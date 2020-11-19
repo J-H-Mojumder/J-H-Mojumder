@@ -22,7 +22,7 @@ Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='C#' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>]()
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/selenium.svg' alt='selenium webdriver' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webdriver.svg' alt='selenium webdriver' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg' alt='jQuery' height='40'>]()
 
 ***
