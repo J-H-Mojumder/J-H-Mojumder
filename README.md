@@ -21,6 +21,8 @@ Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 ## Languages and Tools
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='C#' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='C' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cpp.svg' alt='C++' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='Android' height='40'>]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg' alt='jQuery' height='40'>]()
