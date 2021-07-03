@@ -9,8 +9,8 @@ Python, ASP .Net, PHP, JS, AJAX, HTML, CSS
 
 ***
 
-- I’m currently working on Web development and scraping 
-- I’m currently learning GUI based Python programs for Web Scraping  
+- I’m currently working on Web development, specifically WordPress.
+- I’m currently learning WordPress and it's code base.
 
 ***
 ## contact me
